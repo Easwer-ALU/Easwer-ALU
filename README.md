@@ -7,9 +7,9 @@ My work sits at the intersection of **quantum optics**, **quantum communications
 ---
 
 #### Featured Work
-* **[BroadCast](https://github.com/Easwer-ALU/BroadCast)** \u2014 Full-stack BB84 Quantum Key Distribution (QKD) demonstrator with real-time WebSocket session sync, basis sifting, and eavesdropping (QBER) analysis.
-* **[lwe-gpu-pqc](https://github.com/Easwer-ALU/lwe-gpu-pqc)** \u2014 Streaming PyTorch/CUDA pipeline for Learning With Errors (LWE) post-quantum cryptography on NVIDIA GPUs.
-* **[WanderBoard](https://github.com/Easwer-ALU/WanderBoard)** \u2014 Full-stack collaborative travel planner and Capacitor Android app powered by React, Firebase, and Google Maps.
+* **[BroadCast](https://github.com/Easwer-ALU/BroadCast)** - Full-stack BB84 Quantum Key Distribution (QKD) demonstrator with real-time WebSocket session sync, basis sifting, and eavesdropping (QBER) analysis.
+* **[lwe-gpu-pqc](https://github.com/Easwer-ALU/lwe-gpu-pqc)** - Streaming PyTorch/CUDA pipeline for Learning With Errors (LWE) post-quantum cryptography on NVIDIA GPUs.
+* **[WanderBoard](https://github.com/Easwer-ALU/WanderBoard)** - Full-stack collaborative travel planner and Capacitor Android app powered by React, Firebase, and Google Maps.
 
 ---
 
